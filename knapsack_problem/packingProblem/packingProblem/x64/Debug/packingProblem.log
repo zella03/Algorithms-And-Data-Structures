@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\Monika\Desktop\STUDIA\II semestr\Algorithms and Data Structures\lab\lab4\packingProblem\packingProblem\Źródło.cpp(14,16): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  packingProblem.vcxproj -> C:\Users\Monika\Desktop\STUDIA\II semestr\Algorithms and Data Structures\lab\lab4\packingProblem\x64\Debug\packingProblem.exe
